@@ -1,0 +1,4 @@
+ccb075e80e7e455b91fe2bf90aecf0f2
+ccb075e80e7e455b91fe2bf90aecf0f2
+
+http://api.openweathermap.org/data/2.5/weather?q=London,uk&units=imperial&appid=ccb075e80e7e455b91fe2bf90aecf0f2
